@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <!-- Botones -->
+    <string name="previous">Anterior</string>
+    <string name="next">Siguiente</string>
+
+    <!-- Obra 1 -->
+    <string name="title_1">Atardecer en el mar</string>
+    <string name="artist_1">Elias Blanco</string>
+    <string name="year_1">2026</string>
+    <string name="description_1">Puesta de sol sobre el mar Mediterráneo</string>
+
+    <!-- Obra 2 -->
+    <string name="title_2">Composición geométrica</string>
+    <string name="artist_2">Elias Blanco</string>
+    <string name="year_2">2026</string>
+    <string name="description_2">Rectángulos de colores primarios separados por líneas negras</string>
+
+    <!-- Obra 3 -->
+    <string name="title_3">Noche de espirales</string>
+    <string name="artist_3">Elias Blanco</string>
+    <string name="year_3">2026</string>
+    <string name="description_3">Cielo nocturno lleno de remolinos y estrellas</string>
+
+    <!-- Obra 4 -->
+    <string name="title_4">Campo de amapolas</string>
+    <string name="artist_4">Elias Blanco</string>
+    <string name="year_4">2026</string>
+    <string name="description_4">Campo verde lleno de amapolas rojas bajo un cielo con nubes</string>
+
+    <!-- Obra 5 -->
+    <string name="title_5">Círculos en armonía</string>
+    <string name="artist_5">Elias Blanco</string>
+    <string name="year_5">2026</string>
+    <string name="description_5">Círculos de colores y líneas sobre fondo claro</string>
+</resources>
